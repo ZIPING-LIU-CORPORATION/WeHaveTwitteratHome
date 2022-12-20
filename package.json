@@ -1,7 +1,17 @@
 {
-  "name": "elongmustard",
-  "version": "0.1.0",
-  "private": true,
+  "name": "wehavetwitterathome",
+  "version": "1.fuck.69",
+  "private": false,
+  "author": {
+    "name": "Ziping Liu",
+    "email": "research@twitterliu.com",
+    "url": "https://twitterliu.com/ziping"
+  },
+  "license": "CIA.GOV-Classified-SPECIAL-PASS",
+  "repository": {
+    "type": "github.com",
+    "url": "https://twitterliu.com/github"
+  },
   "dependencies": {
     "@babel/core": "^7.16.0",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",
