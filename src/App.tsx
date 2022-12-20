@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
-import './styles/body.scss';
+import './styles/react-group-layers.scss';
 import Main from './Main';
 
 function App() {
