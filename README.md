@@ -1,4 +1,4 @@
-# Getting Started with Ziping Liu's attempt at creating a React App but with Twitter, now [TwitterLiu.com](TwitterLiu.com)
+# Getting Started with Ziping Liu's attempt at creating a React App but with Twitter, now [TwitterLiu.com](https://TwitterLiu.com)
 
 ## FAQS
 
