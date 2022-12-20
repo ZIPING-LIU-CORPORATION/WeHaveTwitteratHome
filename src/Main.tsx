@@ -1,9 +1,9 @@
 import React from "react";
-import "./styles/react-group-2-1.scss";
 
-import "./styles/react-group-2.scss";
 import "./styles/react-group-3.scss";
-import "./styles/react-group-header.scss";
+
+import FkZgfPHWQAA1BGz from "./assets/images/FkZgfPHWQAA1BGz.png";
+import FkZcz2GXkAEiLRp from "./assets/images/FkZcz2GXkAEiLRp.png";
 export default class Main extends React.Component {
   render() {
     return (
@@ -271,7 +271,7 @@ export default class Main extends React.Component {
                   }}
                 >
                   <style>
-                      {`.r-1rnoaur {
+                    {`.r-1rnoaur {
     overflow-y: auto;
 }
 
@@ -1239,13 +1239,14 @@ export default class Main extends React.Component {
                             style={{
                               transform: `translate3d(0px, 0px, 0px)                                translateY(53px)`,
                             }}
-                          ><style>
-                            {`
+                          >
+                            <style>
+                              {`
                             .r-1awozwy {
                               -webkit-box-align: center;
                               align-items: center;
                           }`}
-                          </style>
+                            </style>
                             <div className="css-1dbjc4n r-1awozwy">
                               <div
                                 role="status"
@@ -1636,7 +1637,6 @@ export default class Main extends React.Component {
                                                     </div>
                                                   </div>
                                                   <div className="css-1dbjc4n">
-                                     
                                                     <div className="css-1dbjc4n">
                                                       <div
                                                         dir="auto"
@@ -1667,7 +1667,8 @@ export default class Main extends React.Component {
                                                         </span>
                                                       </div>
                                                     </div>
-                                                    <div className="css-1dbjc4n"><style>{`.r-1mdbhws {
+                                                    <div className="css-1dbjc4n">
+                                                      <style>{`.r-1mdbhws {
     max-width: 425px;
 }
 
@@ -2169,7 +2170,13 @@ export default class Main extends React.Component {
                                                                       tabIndex={
                                                                         -1
                                                                       }
-                                                                      className="css-4rbku5 css-18t94o4 css-1dbjc4n r-1loqt21 r-1wbh5a2 r-dnmrzs r-1ny4l3l" style={{display:'inline', paddingLeft:'4px'}}
+                                                                      className="css-4rbku5 css-18t94o4 css-1dbjc4n r-1loqt21 r-1wbh5a2 r-dnmrzs r-1ny4l3l"
+                                                                      style={{
+                                                                        display:
+                                                                          "inline",
+                                                                        paddingLeft:
+                                                                          "4px",
+                                                                      }}
                                                                     >
                                                                       <div
                                                                         dir="ltr"
@@ -2190,7 +2197,15 @@ export default class Main extends React.Component {
                                                                       ·
                                                                     </span>
                                                                   </div>
-                                                                  <div className="css-1dbjc4n r-18u37iz r-1q142lx" style={{display:'inline', paddingLeft:'4px'}}>
+                                                                  <div
+                                                                    className="css-1dbjc4n r-18u37iz r-1q142lx"
+                                                                    style={{
+                                                                      display:
+                                                                        "inline",
+                                                                      paddingLeft:
+                                                                        "4px",
+                                                                    }}
+                                                                  >
                                                                     <a
                                                                       href="/TheFakeLiu/status/1605069949965254656"
                                                                       dir="ltr"
@@ -2296,7 +2311,8 @@ export default class Main extends React.Component {
                                                         className="css-901oao r-18jsvk2 r-37j5jr r-a023e6 r-16dba41 r-rjixqe r-bcqeeo r-bnwqim r-qvutc0"
                                                         id="id__lao22y40d8"
                                                         data-testid="tweetText"
-                                                      ><style>{`.r-poiln3 {
+                                                      >
+                                                        <style>{`.r-poiln3 {
                                                         font-family: inherit;
                                                     }
                                                     
@@ -2315,7 +2331,13 @@ export default class Main extends React.Component {
                                                           But of course why am I
                                                           angry at you
                                                         </span>
-                                                        <div className="css-1dbjc4n r-xoduu5" style={{display:'inline', paddingLeft:'4px'}}>
+                                                        <div
+                                                          className="css-1dbjc4n r-xoduu5"
+                                                          style={{
+                                                            display: "inline",
+                                                            paddingLeft: "4px",
+                                                          }}
+                                                        >
                                                           <span className="r-18u37iz">
                                                             <a
                                                               dir="ltr"
@@ -2330,7 +2352,14 @@ export default class Main extends React.Component {
                                                         <span className="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">
                                                           ? Your
                                                         </span>
-                                                        <div className="css-1dbjc4n r-xoduu5" style={{display:'inline', paddingLeft:'4px', paddingRight:'4px'}}>
+                                                        <div
+                                                          className="css-1dbjc4n r-xoduu5"
+                                                          style={{
+                                                            display: "inline",
+                                                            paddingLeft: "4px",
+                                                            paddingRight: "4px",
+                                                          }}
+                                                        >
                                                           <span className="r-18u37iz">
                                                             <a
                                                               dir="ltr"
@@ -2347,7 +2376,13 @@ export default class Main extends React.Component {
                                                           Just like how you
                                                           didn't create the car
                                                         </span>
-                                                        <div className="css-1dbjc4n r-xoduu5" style={{display:'inline', paddingLeft:'4px'}}>
+                                                        <div
+                                                          className="css-1dbjc4n r-xoduu5"
+                                                          style={{
+                                                            display: "inline",
+                                                            paddingLeft: "4px",
+                                                          }}
+                                                        >
                                                           <span className="r-18u37iz">
                                                             <a
                                                               dir="ltr"
@@ -2362,13 +2397,16 @@ export default class Main extends React.Component {
                                                         <span className="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">
                                                           , you engineers
                                                           created its parts and
-                                                          put them together. <strong>You
-                                                          are nothing.</strong>
+                                                          put them together.{" "}
+                                                          <strong>
+                                                            You are nothing.
+                                                          </strong>
                                                         </span>
                                                       </div>
                                                     </div>
-                                                    <div className="css-1dbjc4n"><style>
-                                                      {`.r-1mdbhws {
+                                                    <div className="css-1dbjc4n">
+                                                      <style>
+                                                        {`.r-1mdbhws {
     max-width: 425px;
 }
 
@@ -2388,7 +2426,7 @@ export default class Main extends React.Component {
     flex-direction: row;
 }
 `}
-                                                    </style>
+                                                      </style>
                                                       <div
                                                         aria-label="1 reply"
                                                         role="group"
@@ -2659,7 +2697,7 @@ export default class Main extends React.Component {
                                   <div className="css-1dbjc4n">
                                     <div className="css-1dbjc4n">
                                       <style>
-                                      {`.r-i023vh {
+                                        {`.r-i023vh {
     padding-right: 16px;
 }
 
@@ -2684,8 +2722,9 @@ export default class Main extends React.Component {
                                         tabIndex={-1}
                                         className="css-1dbjc4n r-18u37iz r-1ny4l3l r-1udh08x r-1qhn6m8 r-i023vh"
                                         data-testid="tweet"
-                                      ><style>
-                                        {`
+                                      >
+                                        <style>
+                                          {`
                                         .r-eqz5dr {
                                           -webkit-box-direction: normal;
                                           -webkit-box-orient: vertical;
@@ -2712,7 +2751,7 @@ export default class Main extends React.Component {
                                         flex-grow: 1;
                                     }
                                     `}
-                                      </style>
+                                        </style>
                                         <div className="css-1dbjc4n r-eqz5dr r-16y2uox r-1wbh5a2">
                                           <div className="css-1dbjc4n r-16y2uox r-1wbh5a2 r-1ny4l3l">
                                             <div className="css-1dbjc4n">
@@ -2799,7 +2838,6 @@ export default class Main extends React.Component {
                                                         <div
                                                           className="css-1dbjc4n r-1adg3ll r-h3s6tt r-bztko3"
                                                           data-testid="UserAvatar-Container-TheFakeLiu"
-                                                        
                                                         >
                                                           <div
                                                             className="r-1adg3ll r-13qz1uu"
@@ -3112,7 +3150,13 @@ export default class Main extends React.Component {
                                                         Then I see this and I'm
                                                         like oh...
                                                       </span>
-                                                      <div className="css-1dbjc4n r-xoduu5" style={{display:'inline', padding: '0 4px'}}>
+                                                      <div
+                                                        className="css-1dbjc4n r-xoduu5"
+                                                        style={{
+                                                          display: "inline",
+                                                          padding: "0 4px",
+                                                        }}
+                                                      >
                                                         <span className="r-18u37iz">
                                                           <a
                                                             dir="ltr"
@@ -3169,13 +3213,16 @@ export default class Main extends React.Component {
                                                                       <div
                                                                         className="css-1dbjc4n r-1niwhzg r-vvn4in r-u6sd8q r-4gszlv r-1p0dtai r-1pi2tsx r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-13qz1uu r-1wyyakw"
                                                                         style={{
-                                                                          backgroundImage: `url('https://pbs.twimg.com/media/FkZcz2GXkAEiLRp?format=jpg&amp;name=small')`,
+                                                                          backgroundImage:
+                                                                            FkZcz2GXkAEiLRp,
                                                                         }}
                                                                       ></div>
                                                                       <img
                                                                         alt="Image"
                                                                         draggable="true"
-                                                                        src="https://pbs.twimg.com/media/FkZcz2GXkAEiLRp?format=jpg&amp;name=small"
+                                                                        src={
+                                                                          FkZcz2GXkAEiLRp
+                                                                        }
                                                                         className="css-9pa8cd"
                                                                       />
                                                                     </div>
@@ -3205,8 +3252,8 @@ export default class Main extends React.Component {
                                                           className="css-4rbku5 css-18t94o4 css-901oao css-16my406 r-14j79pv r-1loqt21 r-xoduu5 r-1q142lx r-1w6e6rj r-poiln3 r-9aw3ui r-bcqeeo r-3s2u2q r-qvutc0"
                                                         >
                                                           <time dateTime="2022-12-20T05:27:28.000Z">
-                                                            11:27 PM · Dec 19,
-                                                            2022
+                                                            11:27 PM CDT · Dec
+                                                            19, 2022
                                                           </time>
                                                         </a>
                                                       </div>
@@ -4036,7 +4083,14 @@ export default class Main extends React.Component {
                                                         id="id__nlctxijzd7a"
                                                       >
                                                         Replying to
-                                                        <div className="css-1dbjc4n r-xoduu5" style={{display:'inline-block',  marginLeft:'4px'}}>
+                                                        <div
+                                                          className="css-1dbjc4n r-xoduu5"
+                                                          style={{
+                                                            display:
+                                                              "inline-block",
+                                                            marginLeft: "4px",
+                                                          }}
+                                                        >
                                                           <a
                                                             dir="ltr"
                                                             href="/TheFakeLiu"
@@ -4051,8 +4105,8 @@ export default class Main extends React.Component {
                                                       </div>
                                                     </div>
                                                     <div className="css-1dbjc4n">
-                                                                      <style>
-                                                                      {`.r-18jsvk2 {
+                                                      <style>
+                                                        {`.r-18jsvk2 {
     color: rgb(15, 20, 25);
 }
 
@@ -4078,20 +4132,27 @@ export default class Main extends React.Component {
     position: relative;
 }
 `}
-                                                                      </style>
+                                                      </style>
                                                       <div
                                                         dir="auto"
                                                         lang="en"
                                                         className="css-901oao r-18jsvk2 r-37j5jr r-a023e6 r-16dba41 r-rjixqe r-bcqeeo r-bnwqim r-qvutc0"
                                                         id="id__pwjomg6a6es"
                                                         data-testid="tweetText"
-                                                      >                                        
+                                                      >
                                                         <span className="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">
                                                           WHAT DO THOSE WORDS
                                                           MEAN? IS IT A SECRET?
                                                           IS IT SECRET
                                                         </span>
-                                                        <div className="css-1dbjc4n r-xoduu5" style={{display:'inline-block',  marginLeft:'4px'}}>
+                                                        <div
+                                                          className="css-1dbjc4n r-xoduu5"
+                                                          style={{
+                                                            display:
+                                                              "inline-block",
+                                                            marginLeft: "4px",
+                                                          }}
+                                                        >
                                                           <span className="r-18u37iz">
                                                             <a
                                                               dir="ltr"
@@ -4104,7 +4165,14 @@ export default class Main extends React.Component {
                                                           </span>
                                                         </div>
                                                         <span className="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0"></span>
-                                                        <div className="css-1dbjc4n r-xoduu5" style={{display:'inline-block', marginLeft:'4px'}}>
+                                                        <div
+                                                          className="css-1dbjc4n r-xoduu5"
+                                                          style={{
+                                                            display:
+                                                              "inline-block",
+                                                            marginLeft: "4px",
+                                                          }}
+                                                        >
                                                           <span className="r-18u37iz">
                                                             <a
                                                               dir="ltr"
@@ -4117,7 +4185,14 @@ export default class Main extends React.Component {
                                                           </span>
                                                         </div>
                                                         <span className="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0"></span>
-                                                        <div className="css-1dbjc4n r-xoduu5" style={{display:'inline-block',  marginLeft:'4px'}}>
+                                                        <div
+                                                          className="css-1dbjc4n r-xoduu5"
+                                                          style={{
+                                                            display:
+                                                              "inline-block",
+                                                            marginLeft: "4px",
+                                                          }}
+                                                        >
                                                           <span className="r-18u37iz">
                                                             <a
                                                               dir="ltr"
@@ -4138,7 +4213,14 @@ export default class Main extends React.Component {
                                                           HIGHER CONCIOUSNESS
                                                           YOU HAVE
                                                         </span>
-                                                        <div className="css-1dbjc4n r-xoduu5" style={{display:'inline-block',  marginLeft:'4px'}}>
+                                                        <div
+                                                          className="css-1dbjc4n r-xoduu5"
+                                                          style={{
+                                                            display:
+                                                              "inline-block",
+                                                            marginLeft: "4px",
+                                                          }}
+                                                        >
                                                           <span className="r-18u37iz">
                                                             <a
                                                               dir="ltr"
@@ -4515,9 +4597,7 @@ export default class Main extends React.Component {
                                                     data-testid="Tweet-User-Avatar"
                                                   >
                                                     <div className="css-1dbjc4n r-18kxxzh r-1wbh5a2 r-13qz1uu">
-                                                      <style>
-                                                        {``}
-                                                      </style>
+                                                      <style>{``}</style>
                                                       <div className="css-1dbjc4n r-1wbh5a2 r-dnmrzs">
                                                         <div
                                                           className="css-1dbjc4n r-1adg3ll r-h3s6tt r-bztko3"
@@ -4668,8 +4748,9 @@ export default class Main extends React.Component {
                                                     <div className="css-1dbjc4n r-zl2h9q">
                                                       <div className="css-1dbjc4n r-k4xj1c r-18u37iz r-1wtj0ep">
                                                         <div className="css-1dbjc4n r-1d09ksm r-18u37iz r-1wbh5a2">
-                                                          <div className="css-1dbjc4n r-1wbh5a2 r-dnmrzs r-1ny4l3l"><style>
-                                                            {`.r-1ny4l3l {
+                                                          <div className="css-1dbjc4n r-1wbh5a2 r-dnmrzs r-1ny4l3l">
+                                                            <style>
+                                                              {`.r-1ny4l3l {
     outline-style: none;
 }
 
@@ -4688,7 +4769,7 @@ export default class Main extends React.Component {
 .r-dnmrzs {
     max-width: 100%;
 }`}
-                                                          </style>
+                                                            </style>
                                                             <div
                                                               className="css-1dbjc4n r-1awozwy r-18u37iz r-1wbh5a2 r-dnmrzs r-1ny4l3l"
                                                               id="id__5qxce94z84t"
@@ -4810,8 +4891,8 @@ export default class Main extends React.Component {
                                                   </div>
                                                   <div className="css-1dbjc4n">
                                                     <div className="css-1dbjc4n">
-                                                                        <style>
-                                                                          {`
+                                                      <style>
+                                                        {`
                                                                           .r-18jsvk2 {
                                                                             color: rgb(15, 20, 25);
                                                                         }
@@ -4837,18 +4918,28 @@ export default class Main extends React.Component {
                                                                         .r-bnwqim {
                                                                             position: relative;
                                                                         }`}
-                                                                        </style>
+                                                      </style>
                                                       <div
                                                         dir="auto"
                                                         lang="en"
                                                         className="css-901oao r-18jsvk2 r-37j5jr r-a023e6 r-16dba41 r-rjixqe r-bcqeeo r-bnwqim r-qvutc0"
                                                         id="id__iq9pftsodp"
-                                                        data-testid="tweetText" style={{display:'inline'}}
+                                                        data-testid="tweetText"
+                                                        style={{
+                                                          display: "inline",
+                                                        }}
                                                       >
                                                         <span className="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">
                                                           I'm a web developer at
                                                         </span>
-                                                        <div className="css-1dbjc4n r-xoduu5" style={{display:'inline',  paddingLeft:'4px', paddingRight:'4px'}} >
+                                                        <div
+                                                          className="css-1dbjc4n r-xoduu5"
+                                                          style={{
+                                                            display: "inline",
+                                                            paddingLeft: "4px",
+                                                            paddingRight: "4px",
+                                                          }}
+                                                        >
                                                           <span className="r-18u37iz">
                                                             <a
                                                               dir="ltr"
@@ -4865,7 +4956,14 @@ export default class Main extends React.Component {
                                                           part time ceo as well
                                                           at
                                                         </span>
-                                                        <div className="css-1dbjc4n r-xoduu5" style={{display:'inline-block',  marginLeft:'4px'}}>
+                                                        <div
+                                                          className="css-1dbjc4n r-xoduu5"
+                                                          style={{
+                                                            display:
+                                                              "inline-block",
+                                                            marginLeft: "4px",
+                                                          }}
+                                                        >
                                                           <span className="r-18u37iz">
                                                             <a
                                                               dir="ltr"
@@ -4881,7 +4979,14 @@ export default class Main extends React.Component {
                                                           . I don't know much.
                                                           Sorry if I offended
                                                         </span>
-                                                        <div className="css-1dbjc4n r-xoduu5" style={{display:'inline-block',  marginLeft:'4px'}}>
+                                                        <div
+                                                          className="css-1dbjc4n r-xoduu5"
+                                                          style={{
+                                                            display:
+                                                              "inline-block",
+                                                            marginLeft: "4px",
+                                                          }}
+                                                        >
                                                           <span className="r-18u37iz">
                                                             <a
                                                               dir="ltr"
@@ -4893,11 +4998,18 @@ export default class Main extends React.Component {
                                                             </a>
                                                           </span>
                                                         </div>
-                                                        <span className="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0" >
+                                                        <span className="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">
                                                           , please don't ban me
                                                           on twitter. I love
                                                         </span>
-                                                        <div className="css-1dbjc4n r-xoduu5" style={{display:'inline-block',  marginLeft:'4px'}}>
+                                                        <div
+                                                          className="css-1dbjc4n r-xoduu5"
+                                                          style={{
+                                                            display:
+                                                              "inline-block",
+                                                            marginLeft: "4px",
+                                                          }}
+                                                        >
                                                           <span className="r-18u37iz">
                                                             <a
                                                               dir="ltr"
@@ -4912,7 +5024,14 @@ export default class Main extends React.Component {
                                                         <span className="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">
                                                           , I love
                                                         </span>
-                                                        <div className="css-1dbjc4n r-xoduu5" style={{display:'inline-block',  marginLeft:'4px'}}>
+                                                        <div
+                                                          className="css-1dbjc4n r-xoduu5"
+                                                          style={{
+                                                            display:
+                                                              "inline-block",
+                                                            marginLeft: "4px",
+                                                          }}
+                                                        >
                                                           <span className="r-18u37iz">
                                                             <a
                                                               dir="ltr"
@@ -4927,7 +5046,14 @@ export default class Main extends React.Component {
                                                         <span className="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">
                                                           , I love
                                                         </span>
-                                                        <div className="css-1dbjc4n r-xoduu5" style={{display:'inline-block',  marginLeft:'4px'}}>
+                                                        <div
+                                                          className="css-1dbjc4n r-xoduu5"
+                                                          style={{
+                                                            display:
+                                                              "inline-block",
+                                                            marginLeft: "4px",
+                                                          }}
+                                                        >
                                                           <span className="r-18u37iz">
                                                             <a
                                                               dir="ltr"
@@ -4944,7 +5070,14 @@ export default class Main extends React.Component {
                                                           god i'm sorry, PLEASE
                                                           HOLD MY
                                                         </span>
-                                                        <div className="css-1dbjc4n r-xoduu5" style={{display:'inline-block',  marginLeft:'4px'}}>
+                                                        <div
+                                                          className="css-1dbjc4n r-xoduu5"
+                                                          style={{
+                                                            display:
+                                                              "inline-block",
+                                                            marginLeft: "4px",
+                                                          }}
+                                                        >
                                                           <span className="r-18u37iz">
                                                             <a
                                                               dir="ltr"
@@ -5476,7 +5609,10 @@ export default class Main extends React.Component {
                                                                     </div>
                                                                   </a>
                                                                 </div>
-                                                                </div><br/><br/><br/> 
+                                                              </div>
+                                                              <br />
+                                                              <br />
+                                                              <br />
                                                               {/* 
                                                               TODO: FIGURE OUT WHY SPACING IS OFF HERE VERTICALLY FOR LAST TWEET IN TIMELINE */}
                                                               <div className="css-1dbjc4n r-18u37iz r-1wbh5a2 r-13hce6t">
@@ -5606,7 +5742,13 @@ export default class Main extends React.Component {
                                                           Sorry to be a blubber
                                                           bummer
                                                         </span>
-                                                        <div className="css-1dbjc4n r-xoduu5" style={{display:'inline', margin:'0 4px'}}>
+                                                        <div
+                                                          className="css-1dbjc4n r-xoduu5"
+                                                          style={{
+                                                            display: "inline",
+                                                            margin: "0 4px",
+                                                          }}
+                                                        >
                                                           <span className="r-18u37iz">
                                                             <a
                                                               dir="ltr"
@@ -5619,7 +5761,13 @@ export default class Main extends React.Component {
                                                           </span>
                                                         </div>
                                                         <span className="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0"></span>
-                                                        <div className="css-1dbjc4n r-xoduu5" style={{display:'inline', marginRight:'4px'}}>
+                                                        <div
+                                                          className="css-1dbjc4n r-xoduu5"
+                                                          style={{
+                                                            display: "inline",
+                                                            marginRight: "4px",
+                                                          }}
+                                                        >
                                                           <span className="r-18u37iz">
                                                             <a
                                                               dir="ltr"
@@ -5636,7 +5784,13 @@ export default class Main extends React.Component {
                                                           simple javascript
                                                           function you wrote
                                                         </span>
-                                                        <div className="css-1dbjc4n r-xoduu5" style={{display:'inline', margin:'0 4px'}}>
+                                                        <div
+                                                          className="css-1dbjc4n r-xoduu5"
+                                                          style={{
+                                                            display: "inline",
+                                                            margin: "0 4px",
+                                                          }}
+                                                        >
                                                           <span className="r-18u37iz">
                                                             <a
                                                               dir="ltr"
@@ -5696,11 +5850,12 @@ export default class Main extends React.Component {
                                                                         <div
                                                                           className="css-1dbjc4n r-1niwhzg r-vvn4in r-u6sd8q r-4gszlv r-1p0dtai r-1pi2tsx r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-13qz1uu r-1wyyakw"
                                                                           style={{
-                                                                            backgroundImage: `url('https://pbs.twimg.com/media/FkZgfPHWQAA1BGz?format=png&amp;name=small')`,
+                                                                            backgroundImage:
+                                                                              FkZgfPHWQAA1BGz,
                                                                           }}
                                                                         ></div>
-                                                                       <style>
-                                                                        {`
+                                                                        <style>
+                                                                          {`
                                                                        .r-1wyyakw {
                                                                         z-index: -1;
                                                                     }
@@ -5738,11 +5893,13 @@ export default class Main extends React.Component {
                                                                     .r-1p0dtai {
                                                                         bottom: 0px;
                                                                     }`}
-                                                                       </style>
+                                                                        </style>
                                                                         <img
                                                                           alt="So when I am going in to put in my email address as a secondary email to contact in the twitter create support ticket page for https://ads.twitter.com/en/help, it doesn't recognize my valid email as valid..."
                                                                           draggable="true"
-                                                                          src="https://pbs.twimg.com/media/FkZgfPHWQAA1BGz?format=png&amp;name=small"
+                                                                          src={
+                                                                            FkZgfPHWQAA1BGz
+                                                                          }
                                                                           className="css-9pa8cd"
                                                                         />
                                                                       </div>

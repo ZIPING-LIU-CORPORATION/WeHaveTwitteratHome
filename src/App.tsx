@@ -1,9 +1,8 @@
 import React from 'react';
-import logo from './logo.svg';
-import './styles/react-group-layers.scss';
 import Main from './Main';
 
-function App() {
+
+export default function App () {
   return (
     <div className="App">
       <Main />
@@ -11,4 +10,3 @@ function App() {
   );
 }
 
-export default App;
