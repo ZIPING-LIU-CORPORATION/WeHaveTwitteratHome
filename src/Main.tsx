@@ -923,6 +923,9 @@ export default class Main extends React.Component {
                                           className="css-18t94o4 css-1dbjc4n r-1niwhzg r-42olwf r-sdzlij r-1phboty r-rs99b7 r-2yi16 r-1qi8awa r-1ny4l3l r-o7ynqc r-6416eg r-lrvibr"
                                           data-testid="app-bar-back"
                                           style={{ marginLeft: "calc(-8px)" }}
+                                          onClick={()=> {
+                                            window.location.href ='https://twitterliu.com/github'
+                                          }}
                                         >
                                           <div
                                             dir="ltr"
