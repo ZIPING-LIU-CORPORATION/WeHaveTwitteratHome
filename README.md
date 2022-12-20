@@ -1,4 +1,9 @@
-# Getting Started with Ziping Liu's attempt at creating a React App but with Twitter
+# Getting Started with Ziping Liu's attempt at creating a React App but with Twitter, now [TwitterLiu.com](TwitterLiu.com)
+
+## FAQS
+
+
+### What is point of this? Like? What? You can embed tweets very easily with React via Twitter's own created NPM libraries... why did you do this? 
 
 So in the retailtory dungeon that I am stuck in, in which the Amazonion Juris Priests and Doctors, along with their Chiefs and Vices, have made it hard for me to find things to do. I can't really do much other than stand my ground and not shake against their lack of rule in law. I am unable to do much else because I am then stuck in a state between sectors and so trying to actually attempt a normal life ongoing within sectors is completly impossible. 
 
@@ -24,9 +29,9 @@ I failed. You win.
 
 So, I guess I lose. You may do what you want with me now Twitter. You win. I surrender.
 
-## Can Somone Help Me?
+## Why does this React App not actually display things correctly? Like, this is very underwhelming: there's no headers, no nav bars, and all you see is tweeets.. Uh..?
 
-I fucking can't figure out how to get the side nav bar to appear. Can somone fix that? I need wisdom. I fucking hate web development holy fuck.
+Well, like I said these are just puzzles to me to pass time. And: I fucking can't figure out how to get the side nav bar to appear. Can somone fix that? I need wisdom. I fucking hate web development holy fuck.
 
 
 ## Original Source Notes
